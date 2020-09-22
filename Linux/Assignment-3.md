@@ -1,4 +1,4 @@
-Hi ninja's, This is your third assignment and we expect you guys to complete it on time Make sure that you make a doc of it so that we can evaluate your progress
+Assignment 3:  
 
 * Read about the below topics
 
